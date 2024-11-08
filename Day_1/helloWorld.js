@@ -1,4 +1,4 @@
-/* Write a function createHelloWorld. It should return a new function that always returns "Hello World"
+/* Q2667 Write a function createHelloWorld. It should return a new function that always returns "Hello World"
 Example 1:
 Input: args = []
 Output: "Hello World"
